@@ -1,0 +1,15 @@
+img {
+  width: 450px;
+  height: 335px;
+  margin-top: 20px;
+}
+
+.card {
+  margin-top: 20px;
+  align-items: center;
+  background-color: var(--light-background);
+}
+
+body{
+  background: var(--light-background);
+}
