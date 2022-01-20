@@ -10,7 +10,7 @@
 
 .img-fluid {
   width: 55vw;
-  height: 65vh;
+  height: 95vh;
   margin: 20px;
   transition: 1s all ease;
 }
@@ -28,4 +28,9 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+.navbar-toggler-icon {
+  font-weight: 10000;
+  color: white;
 }
